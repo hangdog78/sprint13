@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bedd40c-19cb-4e99-9683-f834a39596e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/broken_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort_merge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub_seq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wardrobe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/br_srch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two_bikes.py" beforeDir="false" afterPath="$PROJECT_DIR$/two_bikes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/broken_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/broken_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +41,8 @@
       <recent name="E:\Projects\alg_13" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.wardrobe">
-    <configuration name="bubble" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.broken_search">
+    <configuration name="broken_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alg_13" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bubble.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/broken_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.broken_search" />
         <item itemvalue="Python.wardrobe" />
         <item itemvalue="Python.sort_merge" />
         <item itemvalue="Python.sub_seq" />
         <item itemvalue="Python.max_number" />
-        <item itemvalue="Python.bubble" />
       </list>
     </recent_temporary>
   </component>
